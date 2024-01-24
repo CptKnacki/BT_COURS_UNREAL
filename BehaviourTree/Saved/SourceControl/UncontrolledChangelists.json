@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/BehaviourTree/Content/Levels/NavExo.umap",
+				"D:/Unreal/BehaviourTree/Content/Levels/BT_Level.umap",
+				"D:/Unreal/BehaviourTree/Content/BT/BT_Test.uasset",
+				"D:/Unreal/BehaviourTree/Content/BT/BB_Test.uasset",
+				"D:/Unreal/BehaviourTree/Content/Blueprints/BP_BehaviourTreePawnAI.uasset",
+				"D:/Unreal/BehaviourTree/Content/Blueprints/BP_CustomAIController.uasset",
+				"D:/Unreal/BehaviourTree/Content/BT/DebugTask.uasset",
+				"D:/Unreal/BehaviourTree/Content/BT/BoolSetTask.uasset"
+			]
+		}
+	]
+}
